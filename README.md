@@ -48,7 +48,7 @@ POST /students: Create a new student.
   ]
 }
 
-GET /student: Retrieve all student.
+GET /student: Retrieve all student with subjects.
 
 Thank you.
 
